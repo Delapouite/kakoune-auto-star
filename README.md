@@ -17,7 +17,7 @@ and `<a-N>` to avoid this frustration.
 
 ## See Also
 
-- [kakoune-auto-percent](https://github.com/Delapouite/kakoune-auto-star)
+- [kakoune-auto-percent](https://github.com/Delapouite/kakoune-auto-percent)
 
 ## Licence
 
